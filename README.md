@@ -4,7 +4,7 @@ Welcome to Sphinx-Pages-Template!
 
 This is a template for creating Sphinx webpages hosted on Github Pages. This template has been used to host:
 
-- [Itself](https://brokenflopypdisk.github.io/Sphinx-Pages-Template)
+- [Itself](https://brokenfloppydisk.github.io/Sphinx-Pages-Template)
 - [CIS-Breakdown](https://camscsc.github.io/CIS-Breakdown/)
 - [Jonathan Virak's CSA Course](https://ap-csa-java.github.io/CSA_JAVA-Course/)
 
