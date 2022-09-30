@@ -8,7 +8,7 @@ This is a template for creating Sphinx webpages hosted on Github Pages.
 
 ### Initial setup
 
-First, create a fork of this template. Then, in your fork, change `ORGANIZATION_NAME` in `/.github/workflows/sphinx-build.yaml` to your Github username. Then, modify `/source/conf.py` to contain the proper author, copyright, and website name.
+First, create a fork of this template. Then, in your fork, change `ORGANIZATION_NAME` in `/.github/workflows/sphinx-build.yaml` to your Github username, and change `branches` to contain your branch's name. Then, modify `/source/conf.py` to contain the proper author, copyright, and website name.
 
 ### Modifying the website
 
