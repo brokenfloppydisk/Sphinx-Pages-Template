@@ -2,13 +2,17 @@
 
 Welcome to Sphinx-Pages-Template!
 
-This is a template for creating Sphinx webpages hosted on Github Pages. 
+This is a template for creating Sphinx webpages hosted on Github Pages. This template has been used to host:
+
+- [Itself](https://brokenflopypdisk.github.io/Sphinx-Pages-Template)
+- [CIS-Breakdown](https://camscsc.github.io/CIS-Breakdown/)
+- [Jonathan Virak's CSA Course](https://ap-csa-java.github.io/CSA_JAVA-Course/)
 
 ## How to use
 
 ### Initial setup
 
-First, create a fork of this template. Then, in your fork, change `ORGANIZATION_NAME` in `/.github/workflows/sphinx-build.yaml` to your Github username, and change `branches` to contain your branch's name. Then, modify `/source/conf.py` to contain the proper author, copyright, and website name.
+First, press "Use this template" to create your own copy of this template repository. Then, in your fork, change `ORGANIZATION_NAME` in `/.github/workflows/sphinx-build.yaml` to your Github username, and change `branches` to contain your branch's name. Then, modify `/source/conf.py` to contain the proper author, copyright, and website name.
 
 ### Modifying the website
 
